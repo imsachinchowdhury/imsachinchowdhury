@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sachin chowdhury</h1>
-<h3 align="center">i'm programmer || devloper</h3>
+<h3 align="center">i'm programmer || developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsachinchowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="imsachinchowdhury" /> </p>
 
@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsachinchowdhury&show_icons=true&locale=en" alt="imsachinchowdhury" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imsachinchowdhury&" alt="imsachinchowdhury" /></p>
+
